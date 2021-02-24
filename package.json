@@ -1,0 +1,27 @@
+{
+  "name": "Job-Board",
+  "version": "1.0.0",
+  "description": "Practicing how to Fetch data from API's",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hermestt/Job-Board.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hermestt/Job-Board/issues"
+  },
+  "homepage": "https://github.com/Hermestt/Job-Board#readme",
+  "dependencies": {
+    
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
